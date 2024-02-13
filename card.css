@@ -22,7 +22,7 @@ body {
 
 .postcard {
   width: 800px;
-  height: 560px;
+  height: 600px;
   /* background: rgba(255, 255, 255, 0.101); */
   background: #f594b862;
   margin: 0 auto;
@@ -66,7 +66,7 @@ body {
 }
 
 p span {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 600;
   color: #800020;
   font-family: "Dancing Script", cursive;
