@@ -81,7 +81,7 @@ p {
 }
 @media(max-width:700px){
   .postcard{
-    height: 650px;
+    height: 890px;
   }
   body{
     background-size: contain;
