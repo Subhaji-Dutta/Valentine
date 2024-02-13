@@ -19,7 +19,7 @@ body{
     position: absolute;
     left:calc(var(--sp)*50px);
     animation: animate 15s linear infinite;
-    animation-duration: calc(175s / var(--bg));
+    animation-duration: calc(120s / var(--bg));
   }
 
 
