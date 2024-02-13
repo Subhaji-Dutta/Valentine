@@ -19,7 +19,7 @@ body{
     position: absolute;
     left:calc(var(--sp)*50px);
     animation: animate 15s linear infinite;
-    animation-duration: calc(275s / var(--bg));
+    animation-duration: calc(200s / var(--bg));
   }
 
 
@@ -75,11 +75,11 @@ body{
   {
     0%
     {
-      transform: translateY(120vh) scale(0);
+      transform: translateY(100vh) scale(0);
     }
     100%
     {
-      transform: translateY(-30vh) scale(2);
+      transform: translateY(-10vh) scale(2);
     }
   }
   .text {
